@@ -1,6 +1,6 @@
-#### Developed by: GANESH R
-#### Register no: 212222240029
-#### Date:
+### Developed by: GANESH R
+### Register no: 212222240029
+### Date:
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
 ### AIM:
@@ -17,7 +17,7 @@ Predict trends: Generate predictions for both linear and polynomial trends.
 
 Visualize and display: Plot the actual data, linear trend, and polynomial trend, and print the trend equations.
 ### PROGRAM:
-```
+```PY
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
