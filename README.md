@@ -7,15 +7,15 @@
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
 ### ALGORITHM:
-Load and prepare data: Load the stock data, convert 'Date' to datetime, and reset the index for model fitting.
+1.Load and prepare data: Load the stock data, convert 'Date' to datetime, and reset the index for model fitting.
 
-Extract features and target: Use a numerical index (X) as the feature and 'Open' prices (y) as the target.
+2.Extract features and target: Use a numerical index (X) as the feature and 'Open' prices (y) as the target.
 
-Fit models: Fit a linear regression model and a polynomial regression model (degree 2) to the data.
+3.Fit models: Fit a linear regression model and a polynomial regression model (degree 2) to the data.
 
-Predict trends: Generate predictions for both linear and polynomial trends.
+4.Predict trends: Generate predictions for both linear and polynomial trends.
 
-Visualize and display: Plot the actual data, linear trend, and polynomial trend, and print the trend equations.
+5.Visualize and display: Plot the actual data, linear trend, and polynomial trend, and print the trend equations.
 ### PROGRAM:
 ```PY
 import pandas as pd
